@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/opendataby/ODD-2015-content
+	branch = gh-pages
