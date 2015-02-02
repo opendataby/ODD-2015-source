@@ -25,5 +25,14 @@ theme = "redlounge"
   identifier = "facebook"
 
 [[menu.footer]]
-    name = "Source"
-    url = "https://github.com/opendataby/ODD-2015-content"
+    name = "Исходник сайта"
+    url = "https://github.com/opendataby/ODD-2015-source"
+[[menu.footer]]
+    name = "opendata.by"
+    url = "http://opendata.by"
+[[menu.footer]]
+    name = "Блог"
+    url = "http://opendata.by/blog"
+[[menu.footer]]
+    name = "Данные"
+    url = "http://opendata.by/dataset"

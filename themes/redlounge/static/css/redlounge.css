@@ -451,3 +451,12 @@ hr.thin {
         bottom: 0;
     }
 }
+
+.social-share-links {
+	margin-top: 20px;
+}
+
+.social-share-links a {
+	font-size: 0.80rem;
+	text-decoration: none;
+}
