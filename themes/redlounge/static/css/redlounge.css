@@ -460,3 +460,7 @@ hr.thin {
 	font-size: 0.80rem;
 	text-decoration: none;
 }
+
+.odd-map p {
+	text-align: center;
+}
