@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 html {
-	color: #2d303b;
+	color: #2a2f4d;
 }
 html, p, nav, section, article {
 	font-family: 'Istok Web', 'Helvetica', 'Arial', sans-serif;
@@ -13,7 +13,7 @@ pre {
     padding: 0;
 }
 p {
-	color: #2d303b;
+	color: #2a2f4d;
 }
 a {
   -o-transition:.5s;
@@ -91,7 +91,7 @@ h2.brand-tagline {
 	font-weight: 200;
 }
 .sidebar {
-	background: #2d303b;
+	background: #2a2f4d;
 }
 .sidebar, .sidebar p {
 	color: #8b8b8b;
@@ -257,7 +257,7 @@ a.post-author {
     line-height: 1.8rem;
 }
 .post-meta {
-    color: #2d303b;
+    color: #2a2f4d;
     font-size: 90%;
     margin: 0;
 }
@@ -463,4 +463,8 @@ hr.thin {
 
 .odd-map p {
 	text-align: center;
+}
+
+.footer-logo {
+	margin-top: 100px;
 }

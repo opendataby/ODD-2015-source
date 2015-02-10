@@ -4,11 +4,11 @@ draft = false
 title = "О событии"
 nodate = true
 nopaging = true
-socialsharing = true
+socialsharing = false
 
 +++
 
 ## О событии
 
-Небольшой рассказ о событии
+
 
