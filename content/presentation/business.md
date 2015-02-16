@@ -6,5 +6,5 @@ nodate = true
 
 +++
 
-Игорь Кандыба
+Игорь Кандыба (Solution Spark)
 
